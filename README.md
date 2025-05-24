@@ -34,9 +34,17 @@ Android, Linux, Web
 
 ### 👨‍💼 Experience
 
-**Flutter Developer (Full Stack)**  
-*Pranava Energy Environment Technologies (PRANAVA EET)*  
-📅 *Aug 2023 – Present*
+Associate Software Engineer
+Techdome
+📅 Feb 2025 – Present
+
+Flutter Developer (Full Stack)
+Pranava Energy Environment Technologies (PRANAVA EET)
+📅 Aug 2023 – Jan 2025
+
+Web Developer
+Eduonix
+📅 Jan 2023 – Jul 2023
 
 ---
 
@@ -52,13 +60,13 @@ Guru Nanak Institute of Technology
 
 #### ⏱️ Time Track Application  
 A task management system developed using Flutter  
-🔗 [GitHub Repo](#) *(Add actual repo link)*  
 - Assign tasks to employees with descriptions  
 - Track task start/end time with history  
 - Generate weekly/monthly/yearly reports  
 - Speech-to-text feature for hands-free input  
 
 #### 📧 Read My Email Application  
+ https://play.google.com/store/apps/details?id=com.pranavaeet.android.readmyemail_commercial&hl=en_IN
 A Text-to-Speech email reader app designed for hands-free use while driving  
 - Voice commands: Start, Stop, Next, Previous  
 - Multi-account support with IMAP integration  
@@ -76,7 +84,7 @@ A Text-to-Speech email reader app designed for hands-free use while driving
 - 🎨 **Behance (UI/UX)**: [behance.net/SAIPSK](https://behance.net/SAIPSK)
 - 📧 **Email**: pannakarasaikiran@gmail.com  
 - 📱 **Phone**: +91 8096441204  
-- 📄 **Resume**: *(Add Google Drive or other resume link)*
+- 📄 **Resume**: https://drive.google.com/file/d/1EVf6SJLkmeOBU-EWzlh17W9tm57mY1TW/view
 
 ---
 
