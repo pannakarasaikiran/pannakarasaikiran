@@ -3,167 +3,58 @@
 
 ---
 
-## 💡 About Me
-
-I’m a **Flutter Developer with 2+ years of experience** building scalable mobile apps, automation systems, and full-stack solutions.
-
-I specialize in:
-- 📱 Cross-platform app development (Flutter)
-- 🔗 API integrations & real-time systems
-- ⚙️ Automation workflows (n8n, GHL)
-- ☁️ Cloud & scalable architectures
-
-I love building **end-to-end products** that solve real-world problems across domains like **marketplaces, telehealth, and e-commerce**.
-
----
-
 ## 🛠️ Tech Stack
 
-**Languages:**  
-Dart, JavaScript, Java, HTML, CSS  
+**Languages**  
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-**Frameworks:**  
-Flutter, Bootstrap  
+**Frameworks & Platforms**  
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white)
+![MedusaJS](https://img.shields.io/badge/MedusaJS-000000?style=flat-square&logo=medusa&logoColor=white)
 
-**Architecture:**  
-MVVM  
+**Architecture**  
+![MVVM](https://img.shields.io/badge/MVVM-4A4A4A?style=flat-square)
 
-**Automation & Tools:**  
-n8n, GoHighLevel (GHL)  
+**Automation & Tools**  
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![GoHighLevel](https://img.shields.io/badge/GoHighLevel-1A73E8?style=flat-square)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-CC785C?style=flat-square&logo=anthropic&logoColor=white)
+![Emergent](https://img.shields.io/badge/Emergent-6E56CF?style=flat-square)
+![Lovable](https://img.shields.io/badge/Lovable-FF3366?style=flat-square)
+![Base44](https://img.shields.io/badge/Base44-2E2E2E?style=flat-square)
 
-**Databases:**  
-Firebase, SQLite, Supabase, PostgreSQL  
+**Databases**  
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-**Cloud & Storage:**  
-AWS S3, Cloudinary, Azure Blob Storage  
+**Cloud & Storage**  
+![AWS S3](https://img.shields.io/badge/AWS%20S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure%20Blob-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 
-**Integrations:**  
-Razorpay, Stripe, PayPal, Twilio, MSG91, Firebase (Auth, FCM), Klaviyo  
+**Integrations**  
+![Razorpay](https://img.shields.io/badge/Razorpay-0C2451?style=flat-square&logo=razorpay&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
+![PayPal](https://img.shields.io/badge/PayPal-00457C?style=flat-square&logo=paypal&logoColor=white)
+![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white)
+![MSG91](https://img.shields.io/badge/MSG91-1A1A1A?style=flat-square)
+![Klaviyo](https://img.shields.io/badge/Klaviyo-000000?style=flat-square)
+![Calendly](https://img.shields.io/badge/Calendly-006BFF?style=flat-square&logo=calendly&logoColor=white)
 
-**DevOps:**  
-GitHub Actions, CI/CD Pipelines, Railway  
+**DevOps**  
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
 
-**Other:**  
-REST APIs, Webhooks, Redis, Cloudflare  
-
----
-
-## 👨‍💼 Professional Experience
-
-### 🏢 Associate Software Engineer  
-**Techdome Solutions Pvt Ltd** | Feb 2025 – Present  
-- Developed scalable frontend modules for healthcare and SaaS platforms  
-- Built authentication & onboarding systems for multiple user roles  
-- Integrated payments, messaging, and analytics services  
-- Implemented automation workflows improving operational efficiency  
-- Contributed to CI/CD pipelines and deployment processes  
-
----
-
-### 💻 Flutter Developer (Full Stack)  
-**Pranava Energy Environment Technologies (PRANAVA EET)** | Aug 2023 – Jan 2025  
-- Built cross-platform mobile apps using Flutter (Android & iOS)  
-- Implemented MVVM architecture for scalable code structure  
-- Integrated REST APIs and handled backend communication  
-- Developed real-time features like notifications and live updates  
-- Optimized app performance and UI responsiveness  
-
----
-
-## 🚀 Projects
-
-### 🔹 Polystox – Polymer Marketplace  
-🌐 https://polystox.com/  
-- Developed end-to-end Flutter application (Android & iOS)  
-- Built B2B trading platform with offers, demands, and bidding system  
-- Implemented authentication, onboarding, and order workflows  
-- Enabled real-time price alerts and transaction tracking  
-
----
-
-### 🔹 Automation Systems (n8n Workflows)  
-- Built Virtual Try-On (VTO) automation using AI APIs + Supabase  
-- Developed email automation, follow-ups, and lead nurturing systems  
-- Automated blog publishing and marketing workflows  
-- Reduced manual work through scalable automation pipelines  
-
----
-
-### 🔹 Web Development & Integrations  
-- Developed multiple client websites using modern tools  
-- Integrated Razorpay, Stripe, PayPal for payments  
-- Implemented messaging via Twilio, MSG91, Firebase  
-- Used AWS S3, Cloudinary, Azure for storage  
-- Applied Cloudflare for CDN and security  
-
----
-
-### 🔹 EYVA – Wellness Platform  
-🌐 https://www.eyva.io/  
-- Developed responsive UI using HTML, CSS, JavaScript  
-- Built engaging UI with animations  
-- Implemented CI/CD pipelines using GitHub Actions  
-- Managed dev & UAT environments using YAML  
-
----
-
-### 🔹 WIZLO – Telehealth Platform  
-🌐 https://www.wizlo.com/  
-- Built authentication and onboarding systems  
-- Developed staff, patient, and clinic management modules  
-- Implemented invitation workflows  
-- Contributed to scalable frontend architecture  
-
----
-
-### 🔹 Fairy Frills – E-commerce Platform  
-- Migrated from Zoho Commerce to MedusaJS  
-- Built admin panel and user storefront  
-- Integrated Razorpay, GHL, MSG91, Klaviyo  
-- Delivered complete e-commerce workflow  
-
----
-
-### 🔹 Whatomate – WhatsApp Automation  
-🔗 https://github.com/shridarpatil/whatomate  
-- Deployed WhatsApp automation system using Railway  
-- Configured PostgreSQL and Redis  
-- Built chatbot workflows and messaging campaigns  
-- Managed full system deployment and setup  
-
----
-
-## 🎓 Education
-
-**B.Tech – Computer Science Engineering**  
-Guru Nanak Institute of Technology (2019 – 2023)
-
----
-
-## 🌐 Connect with Me
-
-- 🌍 Portfolio: https://your-portfolio-link  
-- 💼 LinkedIn: https://linkedin.com/in/your-profile  
-- 🧑‍💻 GitHub: https://github.com/pannakarasaikiran  
-- 📧 Email: pannakarasaikiran@gmail.com  
-- 📱 Phone: +91 8096441204  
-
----
-
-## ⚡ Key Strengths
-
-- 🚀 End-to-end product development (Mobile + Web + Automation)  
-- 🔗 Strong expertise in third-party integrations  
-- ⚙️ Automation-first mindset (n8n, GHL workflows)  
-- 🧩 Scalable architecture using MVVM  
-- 🧠 Quick learner with strong problem-solving skills  
-
----
-
-## 📊 GitHub Stats
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pannakarasaikiran&show_icons=true&locale=en&layout=compact" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pannakarasaikiran&show_icons=true&locale=en" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pannakarasaikiran" /></p>
+**Other**  
+![REST APIs](https://img.shields.io/badge/REST%20APIs-25D366?style=flat-square)
+![Webhooks](https://img.shields.io/badge/Webhooks-4B4B4B?style=flat-square)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
